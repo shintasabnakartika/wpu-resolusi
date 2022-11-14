@@ -1,5 +1,5 @@
 WPU RESOLUSI 
 - Konsisten untuk membuat konten 2x seminggu
 - Membuat platform untuk pengelolaan video
-- Membuat forum diskusi
 - Belajar materi javascript
+- Belajar materi git dan github
